@@ -1,0 +1,67 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "name": "Matias",
+      "apellido": "Carrera",
+      "mail": "maticarrera15@gmail.com",
+      "legajo": 72859
+    },
+    {
+      "name": "Cristian",
+      "apellido": "Villanueva",
+      "mail": "crisvilla97@gmail.com",
+      "legajo": 72481,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Martín",
+      "apellido": "Michelletti",
+      "mail": "martinmichelletti@gmail.com",
+      "legajo": 69856
+    },
+    {
+      "name": "Facundo",
+      "apellido": "Cerezo",
+      "mail": "facucerezo98@gmail.com",
+      "legajo": 73456,
+      "id": 4
+    },
+    {
+      "name": "Leo",
+      "apellido": "Messi",
+      "mail": "leomessi@gmail.com",
+      "legajo": "46566",
+      "id": 5
+    },
+    {
+      "name": "Lionel",
+      "apellido": "Scaloni",
+      "mail": "liosca@gkld.com",
+      "legajo": "45887",
+      "id": 8
+    },
+    {
+      "name": "Angel",
+      "apellido": "Di María",
+      "mail": "angelito@eluno.com",
+      "legajo": "78995",
+      "id": 9
+    },
+    {
+      "name": "Martin",
+      "apellido": "Palermo",
+      "mail": "martin@palermogol.com",
+      "legajo": "45627",
+      "id": 10
+    },
+    {
+      "name": "Sergio",
+      "apellido": "Aguero",
+      "mail": "kuni@gol.com",
+      "legajo": "22556",
+      "id": 11
+    }
+  ]
+}
